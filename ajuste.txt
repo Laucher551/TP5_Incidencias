@@ -1,0 +1,1 @@
+Aquí se detallaron ajustes mínimos a la solución propuesta para el issue "Registro de Nuevos socios". Ahora este issue esta en condiciones de ser cerrado.
