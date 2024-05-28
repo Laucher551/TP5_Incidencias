@@ -1,0 +1,1 @@
+Aquí se detallaron ajustes y modificaciones mínimas para la solución propuesta para el Issue "Registro de nuevos socios". Ahora el isuee esta en condiciones de ser cerrado.
